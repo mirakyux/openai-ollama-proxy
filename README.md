@@ -6,7 +6,7 @@
 
 ## 起因
 
-PowerToys 的 AI 功能仅支持 Ollama 本地服务，不支持自定义 `base_url`。本工具通过模拟 Ollama API，让 PowerToys 可以使用任意 OpenAI 兼容的在线 AI 服务。
+PowerToys 的 AI 功能支持 OpenAI 格式接口，但不支持自定义 `base_url`；同时支持 Ollama 本地服务。本工具通过模拟 Ollama API，让 PowerToys 可以使用任意 OpenAI 兼容的在线 AI 服务。
 
 ## 使用方法
 

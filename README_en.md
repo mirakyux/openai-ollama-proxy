@@ -6,7 +6,7 @@ Disguise online AI APIs (OpenAI-compatible format) as a local Ollama service.
 
 ## Why
 
-PowerToys AI feature only supports local Ollama service and doesn't allow custom `base_url`. This tool simulates the Ollama API, enabling PowerToys to use any OpenAI-compatible online AI service.
+PowerToys AI feature supports OpenAI format API but doesn't allow custom `base_url`; it also supports local Ollama service. This tool simulates the Ollama API, enabling PowerToys to use any OpenAI-compatible online AI service.
 
 ## Usage
 
